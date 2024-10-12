@@ -6,7 +6,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"
-		"ypos"			"r92"
+		"ypos"			"r58"
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -49,9 +49,7 @@
 		"tabPosition"			"0"
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"center"
-		
-		
-		"font"					"TFFontSmall"
+    "font"					"futura-demi-10"
 	}
 
 	"ItemEffectMeter"
@@ -91,8 +89,6 @@
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"
-		
-		
-		"font"					"HudFontMedium"
+		"font"					"futura-heavy-20"
 	}
 }
