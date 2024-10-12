@@ -85,7 +85,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"cs-0.5"
-		"ypos"			"rs1"
+		"ypos"			"c-8"
 		"wide"			"600"
 		"tall"			"100"
 	}
@@ -535,8 +535,8 @@
 		"wide"	 "640"
 		"tall"	 "480"
 		"zpos" 	"2"
-		"xpos"			"150"
-		"ypos"			"r98"
+		"xpos"			"130"
+		"ypos"			"r61"
 		
 		"TextFont"				"Default"
 		"ItemFont"				"Default"
