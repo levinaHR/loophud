@@ -9,6 +9,7 @@ event DamagedPlayer
 
 event AnimateHitmarker
 {
-	
+	Animate	CustomHitmarker					Alpha		"255"				Linear 0.0	0.0
+	Animate	CustomHitmarker					Alpha		"0"					Accel  0.15	0.0
 }
 

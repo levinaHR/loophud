@@ -1,6 +1,7 @@
 #base "../../cfg/#loophud_custom.txt"		//windows
 #base "../../../../cfg/#loophud_custom.txt"	//linux
 #base "../resource/scheme/fonts.res"
+#base "../resource/ui/custom/hitmarker.res"
 
 "Resource/HudLayout.res"
 {
