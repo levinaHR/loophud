@@ -1,3 +1,4 @@
+#base "vguipreload.res"
 #base "custom/preload.res"
 #base "loop_base/mainmenu_friendslist.res"
 #base "loop_base/mainmenu_extras.res"
